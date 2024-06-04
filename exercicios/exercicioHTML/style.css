@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(241, 173, 90);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+h1{
+    color: white;
+    text-align: center;
+    background-color: rgb(4, 63, 63);
+    
+}
+
+.peito{
+        color: blue;
+        font-style: oblique;
+}
+
+.costas{
+    color: brown;
+    font-style: oblique;
+}
+
+.perna{
+    color: darkcyan;
+    font-style: oblique;
+}
+
+.ombro{
+    color: slateblue;
+    font-style: oblique;
+}
+
+.braco{
+ color: chartreuse;
+ font-style: oblique;
+}
